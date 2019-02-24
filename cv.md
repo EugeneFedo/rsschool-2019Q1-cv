@@ -25,6 +25,6 @@ eugenefed91@gmail.com
 
 6. Have some practice on Codecademy and Codewars.
 
-7. freeCodeCamp, CodeCademy, Coursera.
+7. freeCodeCamp, CodeCademy, Coursera, Udacity.
 
 8. B1. Have a good reading and speaking skills.
