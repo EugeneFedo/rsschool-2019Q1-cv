@@ -1,0 +1,67 @@
+body {
+  max-width: 420px;
+  margin: 0 auto;
+  background-color: rgb(160, 202, 238);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: rgb(51, 6, 18);
+  }
+
+.user {
+  position: relative;
+  top: 7px;
+  left: 22px;
+}
+
+img {
+  float: left;
+  padding-right: 15px;
+}
+
+.phone {
+  position: relative;
+  top: -8px;
+}
+
+.email {
+  position: relative;
+  top: 31px;
+  left: -45px;
+}
+
+.number {
+  position: relative;
+  top: -4px;
+  left: -50px;
+}
+
+.mail {
+  position: relative;
+  left: 40px;
+}
+
+h1 {
+  position: relative;
+  top: 10px;
+  left: 12px;
+}
+
+.intro {
+  position: relative;
+  top: 4px;
+  left: 55px;
+}
+
+h2 {
+  position: relative;
+  left: 55px;
+}
+
+.skills {
+  position: relative;
+  left: 100px;
+}
+
+.education {
+  position: relative;
+  left: 135px;
+}
